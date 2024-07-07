@@ -18,6 +18,9 @@
     <a href="https://t.me/janehhhhh"><img src="./img/telegram.png" alt="Telegram" width="120" /></a>&nbsp
     <a href="https://discordapp.com/users/jane.hq"><img src="./img/discord.png" alt="Discord" width="120" /></a>
 </p>
+<hr>
+<h3 align="center"><b>🍀 Fun Fact!</b></h3>
+<p align="center">JavaScript and I were born in the same year.</p>
 
 [![Bottom Section](./img/lower.gif)]()
 
