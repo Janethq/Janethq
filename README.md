@@ -23,4 +23,3 @@
 <p align="center">JavaScript and I were born in the same year.</p>
 
 [![Bottom Section](./img/lower.gif)]()
-
