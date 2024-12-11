@@ -7,7 +7,7 @@
 <hr>
 <h3 align="center"><b>👩🏻‍💻 Languages and Tools:</b></h3>
 <p align="center">
- <img src="https://skillicons.dev/icons?i=js,go,html,css,git,vscode,vite,react,tailwind,nodejs,express,mongodb,npm,vercel,figma" />
+ <img src="https://skillicons.dev/icons?i=js,ts,go,html,css,git,postman,vscode,vite,react,tailwind,nodejs,express,postgres,mongodb,npm,vercel,figma&perline=9" />
 </p>
 <hr>
 <h3 align="center"><b>🔗 Let's Connect!</b></h3>
