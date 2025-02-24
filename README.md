@@ -15,7 +15,7 @@
     <a href="https://www.linkedin.com/in/jane-tan-/"><img src="./img/linkedin.png" alt="LinkedIn" width="120" /></a>&nbsp
     <a href="mailto: tanhuiqing95@hotmail.com"><img src="./img/email.png" alt="Email" width="120" /></a>&nbsp
     <a href="https://wa.me/6598435728"><img src="./img/whatsapp.png" alt="WhatsApp" width="120" /></a>&nbsp
-    <a href="https://t.me/janehhhhh"><img src="./img/telegram.png" alt="Telegram" width="120" /></a>&nbsp
+    <a href="https://t.me/Jhuiqing"><img src="./img/telegram.png" alt="Telegram" width="120" /></a>&nbsp
     <a href="https://discordapp.com/users/jane.hq"><img src="./img/discord.png" alt="Discord" width="120" /></a>
 </p>
 <hr>
